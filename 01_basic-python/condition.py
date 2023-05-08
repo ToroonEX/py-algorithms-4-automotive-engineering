@@ -7,4 +7,4 @@ def compare(a):
         print(a, " ist null")
 
 
-compare(-1)
+compare(1)
