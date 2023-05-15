@@ -9,7 +9,7 @@ def distance(x, y):
     return lsg
 
 
-x = [2, 3, 1]
+x = [2, 3, -1]
 y = [4, 1, -2]
 
 print(distance(x, y))
